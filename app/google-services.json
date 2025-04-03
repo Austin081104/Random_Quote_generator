@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938885670192",
+    "project_id": "quotegenerator-fd319",
+    "storage_bucket": "quotegenerator-fd319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938885670192:android:e87949c7ef731f35f654f5",
+        "android_client_info": {
+          "package_name": "com.example.quotegeneratorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_TNuupRE2y00NFynMCzjBB-Xaz6FK_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938885670192:android:7a3a96a1fe4d84a7f654f5",
+        "android_client_info": {
+          "package_name": "com.example.randomquote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_TNuupRE2y00NFynMCzjBB-Xaz6FK_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
