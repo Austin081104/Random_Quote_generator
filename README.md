@@ -12,19 +12,23 @@ The **Random Quotes Generator** is an Android application built with **Java & XM
 ✅ Share quotes via social media  
 ✅ Smooth transition animations  
 
-## 🔧 Installation Guide
-1. Clone the repository:
-   ```sh
-  [ git clone https://github.com/your-username/Random-Quotes-App.git
-   ```](https://github.com/Austin081104/Random_Quote_generator.git)
-2. Open the project in **Android Studio**.
-3. Sync Gradle files.
-4. Add **Firebase Firestore** to your project:
-   - Go to [Firebase Console](https://console.firebase.google.com/)
-   - Create a new Firebase project
-   - Enable Firestore Database
-   - Download the `google-services.json` file and place it in `app/` directory.
-5. Run the app on an emulator or a real device.
+🔧 Installation Guide
+
+1.Clone the repository:
+
+git clone https://github.com/your-username/Random-Quotes-App.git
+
+2.Open the project in Android Studio.
+
+3.Sync Gradle files.
+
+4.Add Firebase Firestore to your project:
+ # Go to Firebase Console
+ # Create a new Firebase project
+ # Enable Firestore Database
+ # Download the google-services.json file and place it in app/ directory.
+
+5.Run the app on an emulator or a real device.
 
 ## 🔗 API Used
 - [qapi.vercel.app](https://qapi.vercel.app/api/random) - Fetches random quotes.
