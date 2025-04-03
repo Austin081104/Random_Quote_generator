@@ -13,13 +13,14 @@ The **Random Quotes Generator** is an Android application built with **Java & XM
 ✅ Smooth transition animations  
 
 ## 📱 Screenshots
-> Add some screenshots or GIFs of your app UI here
+> ![WhatsApp Image 2025-04-03 at 5 00 43 PM](https://github.com/user-attachments/assets/8e22587c-97e1-4748-88a2-0ffc7192ef33)
+
 
 ## 🔧 Installation Guide
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Random-Quotes-App.git
-   ```
+  [ git clone https://github.com/your-username/Random-Quotes-App.git
+   ```](https://github.com/Austin081104/Random_Quote_generator.git)
 2. Open the project in **Android Studio**.
 3. Sync Gradle files.
 4. Add **Firebase Firestore** to your project:
@@ -63,24 +64,12 @@ Random-Quotes-App/
 - **Firebase Firestore** (Storing saved quotes)
 - **Lottie Animations** (Smooth UI effects)
 
-## 🛠️ Future Enhancements
-- 📅 **Schedule Daily Quotes** feature
-- 📊 **Leaderboard for popular quotes**
-- 🌎 **Multi-language support**
-- 🌟 **More customization options**
 
-## 🤝 Contributing
-Contributions are welcome! If you’d like to improve the app:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Added a new feature'`)
-4. Push to your fork (`git push origin feature-branch`)
-5. Open a Pull Request
 
 ## 📜 License
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 
-### 👨‍💻 Developed by **[Your Name]**
+### 👨‍💻 Developed by **[Austin Chettiar]**
 
