@@ -26,31 +26,6 @@ The **Random Quotes Generator** is an Android application built with **Java & XM
    - Download the `google-services.json` file and place it in `app/` directory.
 5. Run the app on an emulator or a real device.
 
-## 📂 Project Structure
-```
-Random-Quotes-App/
-│── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/randomquote/
-│   │   │   │   ├── MainActivity.java
-│   │   │   │   ├── SavedQuotesActivity.java
-│   │   │   │   ├── FirestoreHelper.java
-│   │   │   │   ├── QuoteModel.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   │   ├── activity_main.xml
-│   │   │   │   │   ├── activity_saved_quotes.xml
-│   │   │   │   │   ├── item_quote.xml
-│   │   │   ├── drawable/
-│   │   │   │   ├── gradient_bg.xml
-│   │   │   ├── values/
-│   │   │   │   ├── colors.xml
-│   │   │   │   ├── strings.xml
-│── README.md
-│── build.gradle
-```
-
 ## 🔗 API Used
 - [qapi.vercel.app](https://qapi.vercel.app/api/random) - Fetches random quotes.
 
@@ -59,8 +34,6 @@ Random-Quotes-App/
 - **XML** (UI design)
 - **Firebase Firestore** (Storing saved quotes)
 - **Lottie Animations** (Smooth UI effects)
-
-
 
 ## 📜 License
 This project is **open-source** and available under the [MIT License](LICENSE).
