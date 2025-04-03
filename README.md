@@ -4,24 +4,13 @@
 The **Random Quotes Generator** is an Android application built with **Java & XML** in Android Studio. This app fetches and displays random quotes from an API, allows users to **save favorite quotes**, and provides features such as **categorization, sharing, and smooth animations**.
 
 ## ✨ Features
-✅ Fetch random quotes from API ([qapi.vercel.app](https://qapi.vercel.app/api/random))  
+✅ Fetch random quotes from API ([qapi.vercel.app](https://api.vercel.app/api/random))  
 ✅ Save favorite quotes (Stored in **Firebase Firestore**)  
 ✅ View saved quotes on a separate page  
 ✅ Delete quotes from saved list  
 ✅ Copy quotes to clipboard  
 ✅ Share quotes via social media  
 ✅ Smooth transition animations  
-
-## 📱 Screenshots
-<img src=""C:\Users\AUSTIN\Downloads\WhatsApp Image 2025-04-03 at 5.00.43 PM.jpeg"" width="400" />
-
-> ![WhatsApp Image 2025-04-03 at 5 00 43 PM](https://github.com/user-attachments/assets/8e22587c-97e1-4748-88a2-0ffc7192ef33) ![WhatsApp Image 2025-04-03 at 5 00 43 PM (1)](https://github.com/user-attachments/assets/3c2ce23d-72ee-4193-8b67-00cbe3510952)
-
-> ![WhatsApp Image 2025-04-03 at 5 00 44 PM](https://github.com/user-attachments/assets/3c038708-39d4-4a3e-a165-d5450d08337c)
-
-
-
-
 
 ## 🔧 Installation Guide
 1. Clone the repository:
