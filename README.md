@@ -16,7 +16,7 @@ The **Random Quotes Generator** is an Android application built with **Java & XM
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/Random-Quotes-App.git
+[git clone https://github.com/your-username/Random-Quotes-App.git](https://github.com/Austin081104/Random_Quote_generator.git)
 
 2.Open the project in Android Studio.
 
