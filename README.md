@@ -13,6 +13,8 @@ The **Random Quotes Generator** is an Android application built with **Java & XM
 ✅ Smooth transition animations  
 
 ## 📱 Screenshots
+<img src=""C:\Users\AUSTIN\Downloads\WhatsApp Image 2025-04-03 at 5.00.43 PM.jpeg"" width="400" />
+
 > ![WhatsApp Image 2025-04-03 at 5 00 43 PM](https://github.com/user-attachments/assets/8e22587c-97e1-4748-88a2-0ffc7192ef33) ![WhatsApp Image 2025-04-03 at 5 00 43 PM (1)](https://github.com/user-attachments/assets/3c2ce23d-72ee-4193-8b67-00cbe3510952)
 
 > ![WhatsApp Image 2025-04-03 at 5 00 44 PM](https://github.com/user-attachments/assets/3c038708-39d4-4a3e-a165-d5450d08337c)
