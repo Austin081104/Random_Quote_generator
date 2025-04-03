@@ -23,10 +23,10 @@ git clone https://github.com/your-username/Random-Quotes-App.git
 3.Sync Gradle files.
 
 4.Add Firebase Firestore to your project:
- # Go to Firebase Console
- # Create a new Firebase project
- # Enable Firestore Database
- # Download the google-services.json file and place it in app/ directory.
+  Go to Firebase Console
+  Create a new Firebase project
+  Enable Firestore Database
+  Download the google-services.json file and place it in app/ directory.
 
 5.Run the app on an emulator or a real device.
 
